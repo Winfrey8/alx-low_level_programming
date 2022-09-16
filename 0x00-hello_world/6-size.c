@@ -10,7 +10,7 @@
 
 int main(void)
 {
-	char charType; 
+	char charType;
 	int intType;
 	long longType;
 	long long longlongType;
