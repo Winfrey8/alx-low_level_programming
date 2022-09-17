@@ -9,6 +9,7 @@
  * is postive or negative
  *
  * betty style doc for function main is betty-style.pl
+ * Return: 0
  */
 
 int main(void)
