@@ -8,10 +8,11 @@
  */
 int main(void)
 {
-char ch;
+int char ch;
 for (ch = 'a' ; ch <= 'z' ; ch++)
 {
-	putcha(ch);
+	putchar(ch);
 }
 putchar("\n");
 return (0);
+}
