@@ -10,7 +10,6 @@
  */
 int main(void)
 {
-	char x;
 
 	for (int x = 'a'; x <= 'z'; x++)
 	{
