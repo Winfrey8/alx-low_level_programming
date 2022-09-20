@@ -1,7 +1,10 @@
-#include "main.h"
+#include <main.h>
 
 /**
- * printAlpha - prints alphabets
+ * main - prints alphabets
+ *
+ * Description: this program prints alphabets
+ * in lower case
  *
  * Return: 0
  */
